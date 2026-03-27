@@ -17,12 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh1n4r4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2020&icon_color=FF2020&text_color=CCCCCC&count_private=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1n4r4&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2020&text_color=CCCCCC&langs_count=6" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sh1n4r4&theme=dark&hide_border=true&background=0D1117&ring=FF2020&fire=FF2020&currStreakLabel=FF2020" />
 </p>
 
