@@ -88,7 +88,7 @@ Authorized connections only.
 ---
 
 <p align="center">
-  <sub>"Only the paranoid survive. In Shina, we trust no one but the machine we built."</sub>
+  <sub>"Only the paranoid survive. Shina trust no one but the machine we built."</sub>
 </p>
 
 <p align="center">
