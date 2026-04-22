@@ -1,4 +1,4 @@
-# 0x00 | SHINA — Sovereign HolyC Integrated Network Architecture
+# 0x00 | SHINA 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=FF2020&center=true&vCenter=true&width=700&lines=ACCESSING+SHINA+CORE...;SCANNING+SYSTEM+INTEGRITY...;KERNEL+STATUS:+STABLE;WELCOME+TO+RING+0,+STALKER." alt="SHINA Terminal" />
